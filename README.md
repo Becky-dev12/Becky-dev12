@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Becky-dev12/Becky-dev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bereket, a Computer Science student and full stack developer focused on building web and mobile applications using the MERN stack.
 
-Here are some ideas to get you started:
+I enjoy working on practical projects, improving my backend skills, and learning new technologies along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* JavaScript
+* HTML & CSS
+* React Native
+* Git & GitHub
+
+## 🚀 Currently Working On
+
+* Full stack MERN applications
+* REST API development
+* Mobile apps with React Native
+* Better UI design and responsive layouts
+
+## 📌 Goals
+
+* Build more real-world projects
+* Improve backend architecture skills
+* Contribute to open-source projects
+
+## 📫 Contact
+
+GitHub: https://github.com/Becky-dev12
+
+Email: [bekkii1267@gmail.com](mailto:bekkii1267@gmail.com)
+
